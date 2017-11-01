@@ -1,0 +1,10 @@
+def fn(x, y, *args, **kwargs):
+    print(x)
+    print(y)
+    print(args)
+    print(kwargs)
+fn(3,5,7,9,10,a=1,b='python')
+fn(3,5)
+fn(3,5,7)
+fn(3,5,a=1,b='python')
+fn( y=5,x=3,a=1,b='python')
