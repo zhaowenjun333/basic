@@ -86,21 +86,15 @@ def dispatcher(src):
         threads.append(t)
 
         for item in src:
-            for j in queues:
-                j.put(item)
+            for q in queues:
+                q.put(item)
     def run():
         for i in threads:
             i.start()
-        # time.sleep(5)
-        # for item in src:
-        #     for j in queues:
-        #         j.put(item)
 
     return reg, run
 
 if __name__=="__main__":
-    # path="test.log"
-    # path="C:\Users\zhaoyun\PycharmProjects\basic\re"
     files = [ i  for  i in glob.glob(r'C:\Users\zhaoyun\PycharmProjects\basic\re\*.log') ]
     reg,run=dispatcher(load(*files))
     reg(status_handler, 10, 5)  # 注册

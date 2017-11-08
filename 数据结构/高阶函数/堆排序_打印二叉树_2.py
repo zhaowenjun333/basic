@@ -6,9 +6,9 @@ def treeprint(tree):
     sep=" "
     for i in range(depth):
         offset=2**i
-        print(sep*(2**(depth-i-1)-1),end="")
+        print(sep*(2**(depth-i-1)-1),end="")    #8-1    4-1   2-1
         line=tree[index:index+offset]
-        for j ,x in enumerate(line):
+        for j ,x in enumerate(line):       #20     80,40     50,10,60,90      70
             print("{:>{}}".format(x,len(sep)),end="")
             interval= 0 if i==0 else 2**(depth-i)-1
             if j< len(line)-1:
