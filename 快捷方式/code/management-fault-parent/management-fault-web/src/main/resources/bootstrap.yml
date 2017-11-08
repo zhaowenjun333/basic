@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: managementFaultWeb
+  cloud:
+    config:
+      uri: http://config-server1:8888
+server:
+  port: 8080

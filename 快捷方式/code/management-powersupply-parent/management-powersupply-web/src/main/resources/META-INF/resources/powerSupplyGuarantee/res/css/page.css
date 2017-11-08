@@ -1,0 +1,258 @@
+@CHARSET "UTF-8";
+/* .top_botton{
+    position: absolute;
+    left:0;
+    top:0;
+    padding: 10px 0;
+}
+.top_botton>button{
+    background: rgba(255,255,255,0.08);
+    height:32px;
+    width:auto;
+    margin:0 10px 0 0;
+    min-width: 5rem;
+    font-size:14px;
+    border:none;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.3s;
+    float: left;
+    padding: 0 20px;
+}
+.top_botton>button.active{
+    background: #eb9f0d;
+}
+.top_botton>button:hover{
+    background: #eb9f0d;
+}
+.top_botton>button>span{
+    position:absolute;
+	top:2%;
+	height:18px;
+	width:auto;
+	padding:0 5px;
+	background:#009694;
+	border-radius:9px;
+}
+
+
+.btn{
+	  height: 28px;
+	  text-align: center;
+	  background-color: #ffffff;
+	  cursor: pointer;
+	  margin: 10px 0 0 10px;
+	  padding: 0px 12px 0px 12px;
+	  float: left;
+	  border:1px solid #e8e8e8;
+	  文字padding左右间距：12px；描边：# e8e8e8  1px   文字大小：16px；Hover：#009694 1px  字体颜色：#009694
+	  
+}
+.btn:hover{
+	border:1px solid #009694;
+	color:#009694;
+}
+
+.pageBtn>button{
+    background: #009694;
+    width:88px;
+    height:32px;
+    margin-right:10px;
+    font-size: 14px;
+    border:none;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.3s;
+    float: left;
+}
+.pageBtn>button:hover{
+    background: #eb9f0d;
+}
+
+.winBtn>button{
+    background: #009694;
+    width:60px;
+    height:30px;
+    margin-right:10px;
+    font-size: 14px;
+    border:none;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.3s;
+    float: left;
+}
+.winBtn>button:hover{
+    background: #eb9f0d;
+}
+
+.process{
+	width: 100%;
+	border-top: 1px solid #e8e8e8  ;
+}
+
+
+.text{
+	color: grey;
+	font-size: 14px;
+}
+
+.wordBtn{
+	font-size:14px;
+	vertical-align: sub;
+}
+.spanTd{
+	width:8%;
+	font-size:14px;
+	text-align:right;
+	padding:9px;
+}
+
+
+.processTextarea{
+	border: 1px solid #e8e8e8;
+	width:80%;
+	height:40%;
+	margin:0px 22px;
+	padding:4px;
+	background:#f2f2f2;
+	cursor:pointer;
+}
+.processTextarea_onActive{
+	border: 1px solid #e8e8e8;
+	width:80%;
+	height:60%;
+	margin:24px 22px;
+	padding:4px;
+}
+
+
+.winTrHover:hover{
+	color: #009694;
+} */
+
+/*新增、进行中等切换按钮*/
+.ak-radiobuttonlisttip{
+	overflow: visible;
+}
+.ak-radiobuttonlisttip .ak-radiobuttonlist-item{
+	position:relative;
+	margin:0 20px 0 0 !important;
+}
+.ak-radiobuttonlisttip .ak-radiobuttonlist-item:after{
+	content:attr(afterData);
+	position:absolute;
+	right:-10px;
+	top:-10px;
+	width:20px; 
+	height:20px;
+	background:rgb(0, 150, 148);
+	border-radius:100%;
+	box-shadow:0 0 10px rgba(0,0,0,0.3);
+	color:#ffffff;
+	line-height:18px;
+	text-align:center;
+}
+
+.ak-radiobuttonlistnewstyle .ak-radiobuttonlist-item{
+	background-color:rgba(255,255,255,0.08);
+}
+
+
+/*新增、修改等按钮*/
+.ak-btnnewstyle{
+	  height: 28px;
+	  text-algin: center;
+	  background-color: #ffffff;
+	  cursor: pointer;
+	  margin-top: 10px;
+	  margin-left: 10px;
+	  padding: 0px 12px 0px 12px !important;
+	  float: left;
+	  border:1px solid #e8e8e8;
+	 /*  文字padding左右间距：12px；描边：# e8e8e8  1px   文字大小：16px；Hover：#009694 1px  字体颜色：#009694 */
+	  
+}
+.ak-btnnewstyle .ak-button-text{
+	background:transparent;
+	color:#000000;
+	line-height:22px;
+	font-size:16px;
+} 
+.ak-btnnewstyle:hover{
+	border:1px solid #009694  !important;
+	color:#009694;
+	background:transparent  !important;
+}
+.ak-btnnewstyle:hover .ak-button-text{
+	color:#009694 !important;
+}
+.ak-button.ak-normalbuttonstyle:hover{
+    background: #eb9f0d;
+}
+
+
+/*新增、进行中等切换按钮*/
+.ak-radiobuttonlisttip{
+	overflow: visible;
+}
+.ak-radiobuttonlisttip .ak-radiobuttonlist-item{
+	position:relative;
+	margin:0 20px 0 0 !important;
+}
+.ak-radiobuttonlisttip .ak-radiobuttonlist-item:after{
+	content:attr(afterData);
+	position:absolute;
+	right:-10px;
+	top:-10px;
+	width:20px; 
+	height:20px;
+	background:rgb(0, 150, 148);
+	border-radius:100%;
+	box-shadow:0 0 10px rgba(0,0,0,0.3);
+	color:#ffffff;
+	line-height:18px;
+	text-align:center;
+}
+
+.ak-radiobuttonlistnewstyle .ak-radiobuttonlist-item{
+	background-color:rgba(255,255,255,0.08);
+}
+
+
+/* 模糊搜索框*/
+.ak-textboxBtnstyle .ak-textbox-border {
+  height: 30px;
+  padding-left: 4px;
+  padding-right: 4px;
+  background: white;
+  border-color: #cccccc;
+}
+.ak-textboxBtnstyle .ak-textbox-input {
+  height: 30px;
+  line-height: 30px;
+}
+.ak-normalbutton .ak-button-text {
+  padding: 2px 4px 3px 4px;
+  vertical-align: -webkit-baseline-middle;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.ak-normalbuttonstyle .ak-button-text{
+  padding: 2px 0px 4px 0px;
+  vertical-align: -webkit-baseline-middle;
+  display: inline-block;
+  font-size: 14px;
+}
+
+
+.spanTd{
+	width:8%;
+	font-size:14px;
+	text-align:right;
+	padding:9px;
+}
+
+
+
+

@@ -1,0 +1,61 @@
+@CHARSET "UTF-8";
+  .btncss {
+	 margin-top: 15px;
+    height: 28px;
+    text-algin: center;
+    background-color: #009694;
+    cursor: pointer;
+    margin-left: 89.7%;
+        margin-top: 5px;
+    padding: 0px 12px 0px 12px;
+    float: left; 
+    border: 1px solid #e8e8e8;
+}
+   
+.uploadFilePic{
+  background: url(./img/fujian.png) no-repeat center;
+   width: 24px;
+      position: absolute;
+  height: 23px;
+  display: block;
+  background-size: 70%;
+  vertical-align: middle;
+   margin-left: 236px;;
+  border: 1px solid;
+  border-left: 0px;
+  border-color: rgba(60, 60, 60, 0.4) !important;
+  cursor:pointer;
+}
+
+
+
+.words {
+	font-size: 16px;
+	vertical-align: middle;
+	color: #ffffff;
+}
+
+
+
+.tab { width:100%; }
+ .tab_menu { clear:both;}
+ .tab_menu li { float:left; text-align:center; cursor:pointer; list-style:none; padding:1px 6px; margin-right:4px; background:#F1F1F1; border:1px solid #898989; border-bottom:none;}
+ .tab_menu li.hover { background:#DFDFDF;}
+ .tab_menu li.selected { color:#FFF; background:#009694;}
+ .tab_box { clear:both; border:0px solid #898989; height:228px;}
+ .hide{display:none}
+ .but{
+ 	 height: 28px;
+    background-color: hsl(179, 100%, 29%);
+    width: 50px;
+    position: absolute;
+    /* padding-right: 20px; */
+    margin-right: 67px;
+    right: -20px;
+    border: 1px;
+ }
+ .xlzbtn{
+ 	    width: 42px;
+    height: 25px;
+    
+ }

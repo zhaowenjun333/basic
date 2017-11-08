@@ -1,0 +1,148 @@
+@CHARSET "UTF-8";
+
+ .selected{color:#009694;
+    border: solid 1px #009694;
+	background: white;
+	color: #009694; 
+ }
+ 
+.jqss{
+  background-color:#009694;
+      width: 97px;
+      height:30px;
+}
+
+#grid{
+  background-color:#686868;
+}
+.top_botton{
+    position: absolute;
+    left:0;
+    top:0;
+    padding: 10px 0;
+}
+.top_botton>button{
+    background: rgba(255,255,255,0.08);
+    height:32px;
+    width:auto;
+    margin:0 10px 0 0;
+    min-width: 5rem;
+    font-size: 1rem;
+    font-size:16px;
+    border:none;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.3s;
+    float: left;
+    padding: 0 20px;
+}
+.top_botton>button.active{
+    background: #eb9f0d;
+}
+.top_botton>button:hover{
+    background: #eb9f0d;
+}
+.top_botton>button>span{
+    position:absolute;
+	top:2%;
+	height:18px;
+	width:auto;
+	padding:0 5px;
+	background:#009694;
+	border-radius:9px;
+}
+
+
+.btn{
+	  height: 28px;
+	  text-align: center;
+	  background-color: #ffffff;
+	  cursor: pointer;
+	  margin: 10px 0 0 10px;
+	  padding: 0px 12px 0px 12px;
+	  float: left;
+	  border:1px solid #e8e8e8;
+	 /*  文字padding左右间距：12px；描边：# e8e8e8  1px   文字大小：16px；Hover：#009694 1px  字体颜色：#009694 */
+	  
+}
+.btn:hover{
+	border:1px solid #009694;
+	color:#009694;
+}
+
+.pageBtn>button{
+    background: #009694;
+    width:88px;
+    height:32px;
+    margin-right:10px;
+    font-size: 16px;
+    border:none;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.3s;
+    float: left;
+}
+.pageBtn>button:hover{
+    background: #eb9f0d;
+}
+
+.winBtn>button{
+    background: #009694;
+    width:60px;
+    height:30px;
+    margin-right:10px;
+    font-size: 16px;
+    border:none;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.3s;
+    float: left;
+}
+.winBtn>button:hover{
+    background: #eb9f0d;
+}
+
+.process{
+	width: 100%;
+	border-top: 1px solid #e8e8e8  ;
+}
+
+
+.text{
+	color: grey;
+	font-size: 18px;
+}
+
+.wordBtn{
+	font-size:16px;
+	vertical-align: middle;line-height:26px;
+}
+.spanTd{
+	width:7%;
+	font-size:16px;
+	text-align:-webkit-right;
+	padding:9px;
+}
+
+
+.processTextarea{
+	border: 1px solid #e8e8e8;
+	width:79%;
+	height:36%;
+	margin:0px 27px;
+	padding:4px;
+	background:#f2f2f2;
+}
+.processTextarea_onActive{
+	border: 1px solid #e8e8e8;
+	width:79%;
+	height:60%;
+	margin:24px 27px;
+	padding:4px;
+}
+
+
+.winTrHover:hover{
+	color: #009694;
+}
+ 

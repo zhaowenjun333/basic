@@ -1,0 +1,197 @@
+@CHARSET "UTF-8";
+
+.ak-grid-table  tr:first-child + tr > .ak-grid-headerCell {
+	background: #73C1A9
+}
+.nale{
+	text-align:right
+}
+
+
+.tab{
+	  height: 32px;
+	  text-algin: center;
+	  background-color:rgba(255,255,255,0.08);
+	  /* border: 1px solid; */
+	  cursor: pointer;
+	  margin-right: 10px;
+	  margin-top:10px;
+	  padding: 0px 20px 0px 20px;
+	  float: left;
+
+
+	/* 文字padding左右间距：20px；hover颜色：#eb9f0d ；背景：#ffffff  不透明度：8%；文字大小：16px */
+}
+
+.condiv{
+  padding: 0px 20px;
+  font-size: 16px;
+  vertical-align: middle;
+  background-color: #eb9f0d;
+  margin-right: 10px;
+  float:left;
+  cursor:point;
+   /* 文字padding左右间距：20px；字号：16px 按钮高：32px 背景颜色分别为：#eb9f0d 每个并排按钮的间距为10PX */
+}
+
+.tab:hover{
+	background-color:#eb9f0d;
+}
+
+.wordStyle{
+	font-size:16px;
+	color:#ffffff;
+	vertical-align: middle;
+}
+
+.active{
+	background-color:#eb9f0d;
+}
+
+.num{
+	  background-color: #009694;
+	  text-align: center;
+	  border-radius: 100%;
+	  position: absolute;
+	  width: 1%;
+	  height: 16px;
+}
+
+/*新增、修改等按钮*/
+.ak-btnnewstyle{
+	  height: 28px;
+	  text-algin: center;
+	  background-color: #ffffff;
+	  cursor: pointer;
+	  margin-top: 10px;
+	  margin-left: 10px;
+	  padding: 0px 12px 0px 12px !important;
+	  float: left;
+	  border:1px solid #e8e8e8;
+	 /*  文字padding左右间距：12px；描边：# e8e8e8  1px   文字大小：16px；Hover：#009694 1px  字体颜色：#009694 */
+	  
+}
+.ak-btnnewstyle .ak-button-text{
+	background:transparent;
+	color:#000000;
+	line-height:22px;
+	font-size:16px;
+} 
+.ak-btnnewstyle:hover{
+	border:1px solid #009694  !important;
+	color:#009694;
+	background:transparent  !important;
+}
+.ak-btnnewstyle:hover .ak-button-text{
+	color:#009694 !important;
+}
+
+
+.searchPic{
+  background: url(./../images/search.png) no-repeat;
+  width: 27px;
+  height: 30px;
+  display: block;
+  position: relative;
+  margin-top: -9%;
+  margin-left: 91%;
+  cursor: pointer;
+} 
+
+/* 搜索框宽度：310px；高度：32px；描边：# e8e8e8  1px ；搜索图标：28*28px
+搜索框内文字：14px  # 686868；精确搜索按钮大小：118*32px；字体大小：16px； */
+
+.search{
+	height:32px;
+	width:310px;
+	border:1px solid #e8e8e8;
+}
+.corn{
+	width:28px;
+	height:28px;
+}
+
+
+/* 执行情况进度条*/
+.tbox {
+	background: url(./../images/kong.png) no-repeat;
+	margin-left: 18px;
+}
+
+.tbox div {
+	height: 12px;
+	margin-bottom:5px;
+	background: url(./../images/man.png) no-repeat;
+	text-align: center;
+	font-family: Tahoma;
+	font-size: 18px;
+	line-height: 48px;
+}
+
+
+
+/*新增、进行中等切换按钮*/
+.ak-radiobuttonlisttip{
+	overflow: visible;
+}
+.ak-radiobuttonlisttip .ak-radiobuttonlist-item{
+	position:relative;
+	margin:0 20px 0 0 !important;
+}
+.ak-radiobuttonlisttip .ak-radiobuttonlist-item:after{
+	content:attr(afterData);
+	position:absolute;
+	right:-10px;
+	top:-10px;
+	width:20px; 
+	height:20px;
+	background:rgb(0, 150, 148);
+	border-radius:100%;
+	box-shadow:0 0 10px rgba(0,0,0,0.3);
+	color:#ffffff;
+	line-height:18px;
+	text-align:center;
+}
+
+.ak-radiobuttonlistnewstyle .ak-radiobuttonlist-item{
+	background-color:rgba(255,255,255,0.08);
+}
+.tab{
+	  height: 32px;
+	  text-algin: center;
+	  background-color:rgba(255,255,255,0.08);
+	  cursor: pointer;
+	  margin-right: 10px;
+	  margin-top:10px;
+	  padding: 0px 20px 0px 20px;
+	  float: left;
+
+
+	/* 文字padding左右间距：20px；hover颜色：#eb9f0d ；背景：#ffffff  不透明度：8%；文字大小：16px */
+}
+
+/* 模糊搜索框*/
+.ak-textboxBtnstyle .ak-textbox-border {
+  height: 30px;
+  padding-left: 4px;
+  padding-right: 4px;
+  background: white;
+  border-color: #cccccc;
+}
+.ak-textboxBtnstyle .ak-textbox-input {
+  height: 30px;
+  line-height: 30px;
+}
+.ak-normalbutton .ak-button-text {
+  padding: 2px 4px 3px 4px;
+  vertical-align: -webkit-baseline-middle;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.ak-normalbuttonstyle .ak-button-text{
+  padding: 2px 0px 4px 0px;
+  vertical-align: -webkit-baseline-middle;
+  display: inline-block;
+  font-size: 14px;
+}

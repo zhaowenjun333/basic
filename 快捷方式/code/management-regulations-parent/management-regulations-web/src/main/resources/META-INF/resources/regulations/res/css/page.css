@@ -1,0 +1,35 @@
+@CHARSET "UTF-8";
+
+.selectBg {
+	background: #34C0E3;
+}
+
+.voltageLevel {
+	width: 80px;
+	border: solid 2px #4B5079;
+	background: #4B5079;
+	color: white;
+}
+
+.active {
+	background: #21e4da;
+}
+
+.voltageLevel-area {
+	width: 100%;
+	text-align: right;
+	padding: 5px;
+	background-color: #424878;
+}
+
+.totalCount-div{
+	height: 30px;float: right;line-height: 30px;margin-right: 50px;font-size: 14px;margin-top: 20px;
+}
+
+.totalCount{
+	font-size: 300%;color: deepskyblue;
+}
+
+.chart-area{
+	position: absolute; width: 100%; height: 75%;margin-top: 60px;
+}

@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: managementRegulations
+  cloud:
+    config:
+      uri: http://config-server1:8888
+      failFast: true
+server:
+  port: 7093
