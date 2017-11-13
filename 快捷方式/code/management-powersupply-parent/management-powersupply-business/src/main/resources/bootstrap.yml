@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: managementPowerSupply
+  cloud:
+    config:
+      uri: http://config-server1:8888
+      failFast: true
+server:
+  port: 8098

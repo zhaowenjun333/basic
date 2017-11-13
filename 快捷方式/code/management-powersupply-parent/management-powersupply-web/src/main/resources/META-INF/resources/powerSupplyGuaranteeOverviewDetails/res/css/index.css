@@ -1,0 +1,63 @@
+@CHARSET "UTF-8";
+.show{
+	display:block
+}
+.hidden{
+	display:none; 
+}
+	
+#menutheme div{
+	color:white
+}
+
+#menutheme div:hover{
+	color:red;
+	background-color: gray;
+}
+td{
+	text-align:center
+}
+
+/* outmost wrapper element, containing all elements  */
+#scrollable {
+	background-color: ;
+	border:1px solid #ddd;
+	width:100% ;
+	height:100%;
+	 
+}
+
+.tab { width:100%; height:100%}
+ .tab_menu { clear:both;}
+ .tab_menu li {  color:#FFF;  width: 43px;  height: 26px;float:left; text-align:center; cursor:pointer; list-style:none; padding:1px 6px; margin-right:4px; background:#009694; border:1px solid #898989; border-bottom:none;}
+ .tab_menu li.hover { background:#EB9F0D;}
+ .tab_menu li.selected { color:#FFF; background:#EB9F0D;}
+ .tab_box { clear:both; border:0px solid #898989; height:96%;}
+ .hide{display:none}
+ .select_li_div{height:96%;padding-top:12px}
+ 
+ .ak-panel-border{
+ 	border:0px solid ;
+ }
+ #pointCount,#hotelCount,#hospitalCount{
+ 	cursor: pointer;
+ }
+ .zkxq {
+ 	position: absolute;
+	z-index: 1;
+	right: 15px;
+	width: 55px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	color: #FFF;
+	font-size: 12px;
+	cursor: pointer;
+	background: #009694;
+	left: 385px;
+  	top: 93px;
+ }
+ .zkxq:hover {
+ 	opacity:0.8;
+ }
+ 

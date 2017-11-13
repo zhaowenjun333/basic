@@ -1,0 +1,97 @@
+@CHARSET "UTF-8";
+
+/* Tab页样式 */
+.tab{
+	height: 32px;
+	text-algin: center;
+	background: #009694;
+	color: #ffffff;
+	cursor: pointer;
+	margin-right: 10px;
+	padding: 0px 20px;
+	float: left;
+}
+
+.tab:hover{
+	background-color:#ffffff;
+	color:black;
+}
+
+.tab span{
+	vertical-align: sub;
+}
+
+
+/* Tab页选中状态 */
+.active{
+	background-color:#ffffff;
+	color:black;
+}
+
+
+/* 保存按钮样式 */
+.winBtn>button{
+    background: #009694;
+    width:60px;
+    height:30px;
+    margin-left:10px;
+    font-size: 14px;
+    font-family: "微软雅黑";;
+    border:none;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.3s;
+    float: left;
+}
+.winBtn>button:hover{
+    background: #eb9f0d;
+}
+
+.winTrHover:hover{
+	color: #009694;
+}
+
+/* 表格样式 */
+.textTd{
+	text-align:right;
+}
+
+/* 功能按钮样式 */
+.btn{
+	  height: 28px;
+	  text-align: center;
+	  background-color: #ffffff;
+	  cursor: pointer;
+	  margin: 10px 0 0 10px;
+	  padding: 0px 12px 0px 12px;
+	  float: left;
+	  border:1px solid #e8e8e8;
+	 /*  文字padding左右间距：12px；描边：# e8e8e8  1px   文字大小：16px；Hover：#009694 1px  字体颜色：#009694 */
+	  
+}
+.btn:hover{
+	border:1px solid #009694;
+	color:#009694;
+}
+.wordBtn{
+	font-size:14px;
+	vertical-align: sub;
+}
+
+/* 查询、重置按钮样式 */
+.pageBtn>button{
+    background: #009694;
+    width:88px;
+    height:32px;
+    margin-right:10px;
+    font-size: 14px;
+    border:none;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.3s;
+    float: left;
+}
+.pageBtn>button:hover{
+    background: #eb9f0d;
+}
+
