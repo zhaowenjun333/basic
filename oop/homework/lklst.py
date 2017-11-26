@@ -6,7 +6,7 @@ class LinkedList:
             self.link = link
             self.head=None
     def __str__(self):       #模拟链表打印
-        rtstr="["
+        rtstr="😄"
         if self.head != None:
             p = self.head  # 找到第一个节点
             while True :
@@ -16,7 +16,7 @@ class LinkedList:
                 p = p.link
         else:
              pass
-        return rtstr + "]"
+        return rtstr + "😄"
 
     def __init__(self,args=[]):
         if len(args)!=0:
