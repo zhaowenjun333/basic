@@ -1,0 +1,18 @@
+
+
+
+
+一共两个方法__get__ ,__set__
+
+
+class A :
+    def __get__(self,instance,owner):
+        return self
+    def __set(self,instance,value):
+        self.x = value
+
+
+class B :
+    a= A()
+    def __init__(self):
+        self.a = "bingo"

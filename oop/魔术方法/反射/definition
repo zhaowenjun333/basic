@@ -1,0 +1,5 @@
+概述:
+运行时,获取类型定义信息, 反射其他类型信息,
+简单的说就是,能够通过一个类,找出其type,class,attribute,method
+具有反射能力的函数有type(),isinstance(),callable(),dir(),getattr()
+

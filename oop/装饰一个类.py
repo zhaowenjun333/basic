@@ -15,8 +15,9 @@ def property_setnameproperty(name):
 def methond_printable(cls):
     cls.print=lambda self:self.content
     return cls
-# Myclass=setnameproperty(name)(MyClass)
+# Myclass=property_setnameproperty("this is my class name called zhaoyuncreated class ")(methond_printable(MyClass))
 @property_setnameproperty("this is my class name called zhaoyuncreated class ")
+#MyClass = methond_printable(MyClass)
 @methond_printable
 class MyClass:
     pass
