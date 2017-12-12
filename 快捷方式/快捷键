@@ -14,3 +14,14 @@ Shift + Enter 开始新行
 
 
 
+
+file -> 设置 -> pythonscript
+
+#!/usr/bin/env python3.6
+# coding: utf-8
+#${NAME}.PY
+# Created on ${DATE}
+# @author: ${USER}
+"""
+description:
+"""

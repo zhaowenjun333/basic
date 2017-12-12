@@ -1,6 +1,8 @@
 import csv
 from pathlib import Path
 p=Path('test.csv')
+print(p)
+print(type(p))
 parent=p.parent
 if not parent:
     parent.mkdir(parent=True)

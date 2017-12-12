@@ -2,8 +2,6 @@
 id,name,age,comment
 1,zs,18,"i a'm 18 years old"
 2,ls,20,"this is a 'test' string."
-3,ww,23,"ä¸­å›½
+3,ww,23,"ÖÐ¹ú
 
-å›½åº†"
-4,tom,22,tom
-"(4, 'jerry', 23, 'tom')","(5, 'justin', 24, 'tom')"
+¹úÇì"
