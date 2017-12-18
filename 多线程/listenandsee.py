@@ -11,11 +11,12 @@ description:
 #coding=utf-8
 import threading
 from time import ctime,sleep
+import time
 
 
 def music(func):
     for i in range(2):
-        print("I was listening to %s. %s" %(func,ctime()))
+        print("I was listening to %s . %s" %(func,ctime()))
         sleep(1)
 
 def move(func):
@@ -34,4 +35,5 @@ if __name__ == '__main__':
         t.setDaemon(True)
         t.start()
 
+    time.sleep(2)
     print("all over %s" %ctime())

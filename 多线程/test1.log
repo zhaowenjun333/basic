@@ -1,0 +1,6 @@
+logger logger.level is 23
+logger logger1.level is 23
+logger logger2.level is 23
+2017-12-15 17:15:39,036 logger.level is 23 4756 magedu
+2017-12-15 17:15:39,036 logger1.level is 23 4756 magedu
+2017-12-15 17:15:39,036 logger2.level is 23 4756 magedu
