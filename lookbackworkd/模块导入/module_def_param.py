@@ -6,7 +6,7 @@
 """
 description:
 1.导入的可以是可以模块,一个类,一个方法, 准确的说是一个dir 一个名字空间
-2.from 一定是module
+2.from 一定是module,即模块  ->       文件.py
 """
 import builtins
 from lookbackworkd.module_def import hello

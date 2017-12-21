@@ -6,7 +6,7 @@ while True:
     sum+=numa
     print("你输入了"+str(count)+"个数，他们的平均数为",sum/count)
     flag = input("请输入n 退出，y继续：")
-    if flag != "y":
+    if flag == "y":
         continue
     else:
         print("成功推出")
