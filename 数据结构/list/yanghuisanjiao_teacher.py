@@ -1,9 +1,7 @@
 n=6
 oldline=[]
 newline=[1]
-length=0
-# print(newline)
-for i in range(1,n):
+for i in range(1,3):
     oldline=newline.copy()
     oldline.append(0)
     newline.clear()
@@ -11,7 +9,8 @@ for i in range(1,n):
     while offset<=i:
         newline.append(oldline[offset-1]+oldline[offset])
         offset+=1
-print(newline)
+    print(newline)
+
 
 
 
