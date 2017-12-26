@@ -25,3 +25,6 @@ file -> 设置 -> pythonscript
 """
 description:
 """
+
+自动缩放
+File --> Setting --> Editor --> General --> 勾选Change font size (zoom) with Ctrl+Mouse Wheel

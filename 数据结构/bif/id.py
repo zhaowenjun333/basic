@@ -8,3 +8,4 @@ def nums(x,y,*args):
 
 
 nums(2,5,6,7)
+nums(2,3,*(3,4,5,6))
