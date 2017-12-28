@@ -11,7 +11,7 @@ def fbis(num):
 
 def main():
     result = fbis(10)
-    fobj = open('result.txt', 'w+')
+    fobj = open('result.txt', 'r+')
     for i, num in enumerate(result):
         print(("第 %d 个数是: %d" % (i, num)))
         fobj.write("%d"%num)

@@ -3,16 +3,17 @@
 ctrl +d   快速复制到下一行
 
 ctrl +y   删除本行
-
+ctrl +x  删除本行
 ctrl + /   注释
 
 ctrl + shift + up or down  上下移动本行
+ctrl + shift + u         大小写转换
 
 ctrl +alt + i   自动缩进
 
 Shift + Enter 开始新行
 
-
+CTRL + ;  光标移动到末尾
 
 
 file -> 设置 -> pythonscript
@@ -28,3 +29,8 @@ description:
 
 自动缩放
 File --> Setting --> Editor --> General --> 勾选Change font size (zoom) with Ctrl+Mouse Wheel
+
+debugger
+f8 下一句子
+f9 下一个断点
+f7 进入函数内部
