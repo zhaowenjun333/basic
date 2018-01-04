@@ -12,6 +12,8 @@ description:
 
 
 class A:
+
+
     def getone(self):   # getone(self)(app)   ->self.add(1)(app)
         return self.add(1)
 

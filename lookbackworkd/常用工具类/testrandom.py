@@ -19,3 +19,7 @@ print(dicta.keys())
 lista = list(dicta.keys())
 print(random.shuffle(lista))
 print(lista)
+print('123453235432345654323456765432345678765432123678')
+#4
+dicta = random.choice([i for i in range(10)])
+print(dicta)

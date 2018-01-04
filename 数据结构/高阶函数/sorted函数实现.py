@@ -1,13 +1,13 @@
-
 """
 sorted函数的实现
 """
 
-def  sorted(lst,reverse=False):
-    ret=[]
-    counter=0
+
+def sorted(lst, reverse=False):
+    ret = []
+    counter = 0
     for x in lst:
-        counter+=1
+        counter += 1
         j = counter
         target = x
         while j > 0 and target < lst[j - 1]:
@@ -21,5 +21,6 @@ def  sorted(lst,reverse=False):
 
     return ret
 
-lst= [1,5,3]
+
+lst = [1, 5, 3]
 print(sorted(lst))

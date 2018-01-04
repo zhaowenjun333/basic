@@ -30,7 +30,7 @@ TYPE_PATTERN = {
 
 def transform(kv: str):
     name, type_param = kv.strip("/{}").split(":")
-    return "/(?<{}>{})".format(name, TYPE_PATTERN.get(type_param, "\w+")), name, TYPECAST.get(type_param, str)
+    return "/(?P<{}>{})".format(name, TYPE_PATTERN.get(type_param, "\w+")), name, TYPECAST.get(type_param, str)
 
 
 def parse(src: str):
