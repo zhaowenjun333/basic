@@ -16,3 +16,4 @@ setup(name="lucky_web_nginx",
       author_email="zhaoyun4240@163.com",
       url="https://github.com/zhaowenjun333/basic",
       packages=["luckynginx"])
+map()

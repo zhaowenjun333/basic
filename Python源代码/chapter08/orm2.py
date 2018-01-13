@@ -3,7 +3,7 @@
 
 
 
-from sqlalchemy import Table, Column, Integer, ForeignKey, String
+from sqlalchemy  import Table, Column, Integer, ForeignKey, String
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, backref
 

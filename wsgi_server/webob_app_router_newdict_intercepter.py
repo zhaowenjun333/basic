@@ -255,7 +255,7 @@ def show_prefix(ctx: Context, request: Request):
 
 
 if __name__ == '__main__':
-    from 数据库连接.conpool import ConnPoo
+    from 数据库连接.仿orm框架.conpool import ConnPoo
     httpd = make_server('0.0.0.0', 8000, Application( ))
     try:
         pool = ConnPoo(3,"172.16.101.56","root","123456","test")

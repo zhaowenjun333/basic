@@ -48,7 +48,7 @@ class ConnPoo:
         self.local.conn = None
 
 
-pool = ConnPoo(3,"172.16.101.56","root","123456","test")
+pool = ConnPoo(3,"172.16.101.67","root","123456","test")
 
 #
 with pool as cursor:
@@ -56,3 +56,6 @@ with pool as cursor:
         cursor.execute("select * from salaries")
         for i in cursor:
             print(i)
+
+while True:
+    pass
