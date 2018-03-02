@@ -4,3 +4,6 @@ logger logger2.level is 23
 2017-12-15 17:15:39,036 logger.level is 23 4756 magedu
 2017-12-15 17:15:39,036 logger1.level is 23 4756 magedu
 2017-12-15 17:15:39,036 logger2.level is 23 4756 magedu
+2018-02-06 16:27:43,212 logger.level is 23 1412 magedu
+2018-02-06 16:27:43,212 logger1.level is 23 1412 magedu
+2018-02-06 16:27:43,213 logger2.level is 23 1412 magedu

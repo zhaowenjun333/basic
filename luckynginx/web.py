@@ -68,7 +68,7 @@ class Router:
 
     def register_preintercepter(self, fn):
         self.pre_intercepter.append(fn)
-        return
+        return fn
 
     def register_postintercepter(self, fn):
         self.post_intercepter.append(fn)

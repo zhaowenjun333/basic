@@ -10,5 +10,8 @@ def add(x,y):
 
 newadd=functools.partial(add,y=4)
 
-print(newadd(5))
-# print(add(3,4))
+print(newadd(x=5))
+print("origin->",add(3,4))
+
+
+
