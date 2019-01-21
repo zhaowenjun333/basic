@@ -3,7 +3,7 @@
 # f.write("123")
 
 # 啊这是什么鬼啊啊啊啊
-with open('test',encoding="utf-8",mode='r+') as f :
+with open('test',encoding="utf-8",mode='w+') as f :
     print(f.read(1))
     print(f.read(1))
     print(f.read(1))

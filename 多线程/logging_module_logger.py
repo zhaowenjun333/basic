@@ -21,3 +21,4 @@ if __name__=="__main__":
     logger1:logging.Logger  = logging.getLogger(__name__+".ok")    # 模块级别的  logger
     print(logger1.name,"eeeeeparentid->",logger1.parent,id(logger1.parent),"eee",type(logger1),"eeeeeeee",logger1,"eeee",id(logger1))
 
+

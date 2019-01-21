@@ -18,7 +18,7 @@ description:
 #     if count ==0:
 #         break
 # print(lst)
-lst = [1,9,8,5,6,7,4,3,2]
+lst = [6,9,8,5,1,7,4,3,2]
 length = len(lst)
 for i in range(length): # 0-8
     for j in range(length-1-i):  #7

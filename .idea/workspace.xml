@@ -1,0 +1,1581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2899f48-2997-45f5-9230-86b00ae7e05c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/lookbackworkd/排序算法/冒泡排序.py" afterPath="$PROJECT_DIR$/lookbackworkd/排序算法/冒泡排序.py" />
+      <change beforePath="$PROJECT_DIR$/多线程/listenandsee.py" afterPath="$PROJECT_DIR$/多线程/listenandsee.py" />
+      <change beforePath="$PROJECT_DIR$/多线程/logging_module_logger.py" afterPath="$PROJECT_DIR$/多线程/logging_module_logger.py" />
+      <change beforePath="$PROJECT_DIR$/多线程/testcounter.py" afterPath="$PROJECT_DIR$/多线程/testcounter.py" />
+      <change beforePath="$PROJECT_DIR$/多线程/testjointhread_1强制join调用.py" afterPath="$PROJECT_DIR$/多线程/testjointhread_1强制join调用.py" />
+      <change beforePath="$PROJECT_DIR$/数据结构/str/partition.py" afterPath="$PROJECT_DIR$/数据结构/str/partition.py" />
+      <change beforePath="$PROJECT_DIR$/数据结构/高阶函数/堆排序_打印二叉树.py" afterPath="$PROJECT_DIR$/数据结构/高阶函数/堆排序_打印二叉树.py" />
+      <change beforePath="$PROJECT_DIR$/文件操作/open.py" afterPath="$PROJECT_DIR$/文件操作/open.py" />
+      <change beforePath="$PROJECT_DIR$/文件操作/test" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/文件操作/write.py" afterPath="$PROJECT_DIR$/文件操作/write.py" />
+      <change beforePath="$PROJECT_DIR$/语法/a9_9-1.py" afterPath="$PROJECT_DIR$/语法/a9_9-1.py" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/basic$api_discard.coverage" NAME="集合常用api_discard Coverage Results" MODIFIED="1513838800857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/set" />
+    <SUITE FILE_PATH="coverage/basic$split.coverage" NAME="split Coverage Results" MODIFIED="1523495633822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/str" />
+    <SUITE FILE_PATH="coverage/basic$zl_crazzzy_ls.coverage" NAME="zl_crazzzy_ls Coverage Results" MODIFIED="1512987301650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$9_1.coverage" NAME="9-1 Coverage Results" MODIFIED="1515228721569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python源代码/chapter09" />
+    <SUITE FILE_PATH="coverage/basic$socket_server_Thread_3.coverage" NAME="socket_server_Thread_3 Coverage Results" MODIFIED="1513739796629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tcp编程" />
+    <SUITE FILE_PATH="coverage/basic$socket_server.coverage" NAME="socket_server Coverage Results" MODIFIED="1513581392718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tcp编程" />
+    <SUITE FILE_PATH="coverage/basic$practice_1.coverage" NAME="practice_1 Coverage Results" MODIFIED="1513345920287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/package封装和解构" />
+    <SUITE FILE_PATH="coverage/basic$test__get____.coverage" NAME="test__get__() Coverage Results" MODIFIED="1511765934319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法/描述器" />
+    <SUITE FILE_PATH="coverage/basic$sorted.coverage" NAME="sorted函数实现 Coverage Results" MODIFIED="1514632343975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/高阶函数" />
+    <SUITE FILE_PATH="coverage/basic$webob_.coverage" NAME="webob_路由 Coverage Results" MODIFIED="1514196528491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$id.coverage" NAME="id Coverage Results" MODIFIED="1514288085328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/bif" />
+    <SUITE FILE_PATH="coverage/basic$asc.coverage" NAME="把一个整数转换为对应的asc码 Coverage Results" MODIFIED="1514279882146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/bytes" />
+    <SUITE FILE_PATH="coverage/basic$first_motyply.coverage" NAME="first_motyply Coverage Results" MODIFIED="1514098295955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/list" />
+    <SUITE FILE_PATH="coverage/basic$findswordcount_1_1.coverage" NAME="findswordcount_1_1 Coverage Results" MODIFIED="1509522949486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$temperature_change.coverage" NAME="temperature_change Coverage Results" MODIFIED="1510129899668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/test" />
+    <SUITE FILE_PATH="coverage/basic$write.coverage" NAME="write Coverage Results" MODIFIED="1523496452236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1514552157195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/luckynginx" />
+    <SUITE FILE_PATH="coverage/basic$copy_hextend.coverage" NAME="copy_hextend Coverage Results" MODIFIED="1514101629014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/list" />
+    <SUITE FILE_PATH="coverage/basic$webob___.coverage" NAME="webob_路由_字典存放路由表_动态 Coverage Results" MODIFIED="1514343360305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$jishi_1.coverage" NAME="jishi_1 Coverage Results" MODIFIED="1510735222672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法" />
+    <SUITE FILE_PATH="coverage/basic$fbonaqi.coverage" NAME="fbonaqi Coverage Results" MODIFIED="1511667995651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法" />
+    <SUITE FILE_PATH="coverage/basic$practice.coverage" NAME="practice Coverage Results" MODIFIED="1514288371853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/package封装和解构_1" />
+    <SUITE FILE_PATH="coverage/basic$logging_module_logger_Handler_FileHandler.coverage" NAME="logging_module_logger_Handler_FileHandler Coverage Results" MODIFIED="1517905663097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$base64.coverage" NAME="base64编码 Coverage Results" MODIFIED="1508859092914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/作用域" />
+    <SUITE FILE_PATH="coverage/basic$socket_client.coverage" NAME="socket_client Coverage Results" MODIFIED="1513673909971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tcp编程" />
+    <SUITE FILE_PATH="coverage/basic$change.coverage" NAME="change Coverage Results" MODIFIED="1514120488168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/str" />
+    <SUITE FILE_PATH="coverage/basic$webob________methods.coverage" NAME="webob_路由_字典存放路由表_动态_封装为类_装饰器_封装为类_修改注册函数_methods Coverage Results" MODIFIED="1514377758380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$_.coverage" NAME="堆排序_打印二叉树 Coverage Results" MODIFIED="1514632455865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/高阶函数" />
+    <SUITE FILE_PATH="coverage/basic$orm.coverage" NAME="orm Coverage Results" MODIFIED="1515302999655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python源代码/chapter08" />
+    <SUITE FILE_PATH="coverage/basic$first.coverage" NAME="first Coverage Results" MODIFIED="1514263854836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/bytes" />
+    <SUITE FILE_PATH="coverage/basic$tenworkermade1000cups_Lock.coverage" NAME="tenworkermade1000cups_Lock Coverage Results" MODIFIED="1513600909394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$pathlib_Path_1.coverage" NAME="pathlib.Path_1 Coverage Results" MODIFIED="1509256516791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$findswordcount_1.coverage" NAME="findswordcount_1 Coverage Results" MODIFIED="1509521198987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$lklst_.coverage" NAME="lklst_容器 Coverage Results" MODIFIED="1512389187994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/homework_lklst" />
+    <SUITE FILE_PATH="coverage/basic$dispatcher_r.coverage" NAME="dispatcher_r Coverage Results" MODIFIED="1510930796501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/reflect_practice" />
+    <SUITE FILE_PATH="coverage/basic$generator_fz420.coverage" NAME="generator_fz420 Coverage Results" MODIFIED="1514207212654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re" />
+    <SUITE FILE_PATH="coverage/basic$loveshape.coverage" NAME="loveshape Coverage Results" MODIFIED="1514632465864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/高阶函数" />
+    <SUITE FILE_PATH="coverage/basic$testjointhread_1__.coverage" NAME="testjointhread_1_主线程快_子线程未执行 Coverage Results" MODIFIED="1520335334099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$socket_server_Thread_2_aboutParam.coverage" NAME="socket_server_Thread_2_aboutParam Coverage Results" MODIFIED="1514338837129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tcp编程" />
+    <SUITE FILE_PATH="coverage/basic$logging_module_logger_level.coverage" NAME="logging_module_logger_level Coverage Results" MODIFIED="1513306182027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$api_symmetric_difference_update.coverage" NAME="集合常用api_symmetric_difference_update Coverage Results" MODIFIED="1513844382136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/set" />
+    <SUITE FILE_PATH="coverage/basic$jicheng.coverage" NAME="jicheng Coverage Results" MODIFIED="1513766874534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/继承" />
+    <SUITE FILE_PATH="coverage/basic$test_try_exception_finally.coverage" NAME="test_try_exception_finally Coverage Results" MODIFIED="1513911378300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语法" />
+    <SUITE FILE_PATH="coverage/basic$socket_server_Thread_1.coverage" NAME="socket_server_Thread_1 Coverage Results" MODIFIED="1513647090811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tcp编程" />
+    <SUITE FILE_PATH="coverage/basic$2.coverage" NAME="2 Coverage Results" MODIFIED="1520173165589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语法" />
+    <SUITE FILE_PATH="coverage/basic$copy_class.coverage" NAME="copy_class Coverage Results" MODIFIED="1514449876551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/list" />
+    <SUITE FILE_PATH="coverage/basic$webob_app_router_newdict.coverage" NAME="webob_app_router_newdict Coverage Results" MODIFIED="1514530102348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$normalobject.coverage" NAME="normalobject Coverage Results" MODIFIED="1509969707592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/basic$yanghuisanjao.coverage" NAME="yanghuisanjao Coverage Results" MODIFIED="1514106319899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/list" />
+    <SUITE FILE_PATH="coverage/basic$magic_method.coverage" NAME="magic_method Coverage Results" MODIFIED="1511260508570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法" />
+    <SUITE FILE_PATH="coverage/basic$webob_app_router.coverage" NAME="webob_app_router Coverage Results" MODIFIED="1514447535928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$lianxi_3.coverage" NAME="lianxi_3 Coverage Results" MODIFIED="1513848348390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/dict" />
+    <SUITE FILE_PATH="coverage/basic$functools_1.coverage" NAME="functools_1 Coverage Results" MODIFIED="1519969076247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/高阶函数" />
+    <SUITE FILE_PATH="coverage/basic$copy_hextend_1.coverage" NAME="copy_hextend_1 Coverage Results" MODIFIED="1514451122465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/list" />
+    <SUITE FILE_PATH="coverage/basic$shutil_2.coverage" NAME="shutil_2 Coverage Results" MODIFIED="1509108874152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作/os模块" />
+    <SUITE FILE_PATH="coverage/basic$api_intersec.coverage" NAME="集合常用api_intersec Coverage Results" MODIFIED="1513842995706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/set" />
+    <SUITE FILE_PATH="coverage/basic$lingxing.coverage" NAME="lingxing Coverage Results" MODIFIED="1520409056500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语法" />
+    <SUITE FILE_PATH="coverage/basic$test_staticmethod_1.coverage" NAME="test_staticmethod_1 Coverage Results" MODIFIED="1511789942975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法/描述器应用" />
+    <SUITE FILE_PATH="coverage/basic$jishi_3.coverage" NAME="jishi_3 Coverage Results" MODIFIED="1510738934685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法" />
+    <SUITE FILE_PATH="coverage/basic$TestMro.coverage" NAME="TestMro Coverage Results" MODIFIED="1510881526748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/继承" />
+    <SUITE FILE_PATH="coverage/basic$sorted_2.coverage" NAME="sorted函数实现_2 Coverage Results" MODIFIED="1514632447422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/高阶函数" />
+    <SUITE FILE_PATH="coverage/basic$teacher_server.coverage" NAME="teacher_server Coverage Results" MODIFIED="1513579593422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tcp编程" />
+    <SUITE FILE_PATH="coverage/basic$webob_app_router_newdict_intercepter.coverage" NAME="webob_app_router_newdict_intercepter Coverage Results" MODIFIED="1515069437673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$to__1.coverage" NAME="字典to对象_递归_1 Coverage Results" MODIFIED="1514376729128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$findswordcount.coverage" NAME="findswordcount Coverage Results" MODIFIED="1510576866960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$datetime4.coverage" NAME="datetime4 Coverage Results" MODIFIED="1514631972161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/解析器生成器" />
+    <SUITE FILE_PATH="coverage/basic$logging_module_1.coverage" NAME="logging_module_1 Coverage Results" MODIFIED="1513302843783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$1_2.coverage" NAME="1-2 Coverage Results" MODIFIED="1514276781865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python源代码/chapter01" />
+    <SUITE FILE_PATH="coverage/basic$jishi_4.coverage" NAME="jishi_4 Coverage Results" MODIFIED="1511672324904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法" />
+    <SUITE FILE_PATH="coverage/basic$test__bool__.coverage" NAME="test__bool__ Coverage Results" MODIFIED="1511503725763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法" />
+    <SUITE FILE_PATH="coverage/basic$test_.coverage" NAME="test_装饰器 Coverage Results" MODIFIED="1514461341639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$testjointhread_2__.coverage" NAME="testjointhread_2_主线程慢_子线程执行 Coverage Results" MODIFIED="1520335196231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$base64__2.coverage" NAME="base64编码_解码_2 Coverage Results" MODIFIED="1508840350232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/作用域" />
+    <SUITE FILE_PATH="coverage/basic$firstdeml.coverage" NAME="firstdeml Coverage Results" MODIFIED="1515202134853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaprogrammer" />
+    <SUITE FILE_PATH="coverage/basic$logging_module_logger_Handler_2.coverage" NAME="logging_module_logger_Handler_2 Coverage Results" MODIFIED="1513328849895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$teacherduoxianc.coverage" NAME="teacherduoxianc Coverage Results" MODIFIED="1513136451280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$ormtest_save.coverage" NAME="ormtest_save Coverage Results" MODIFIED="1515220221750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaprogrammer" />
+    <SUITE FILE_PATH="coverage/basic$context_.coverage" NAME="context_伪装 Coverage Results" MODIFIED="1511672487300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法" />
+    <SUITE FILE_PATH="coverage/basic$map_p.coverage" NAME="map_p Coverage Results" MODIFIED="1510577668132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/homework" />
+    <SUITE FILE_PATH="coverage/basic$_2.coverage" NAME="解构_2 Coverage Results" MODIFIED="1514289277414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/package封装和解构" />
+    <SUITE FILE_PATH="coverage/basic$a9_9_2.coverage" NAME="a9_9-2 Coverage Results" MODIFIED="1520173350331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语法" />
+    <SUITE FILE_PATH="coverage/basic$partition.coverage" NAME="partition Coverage Results" MODIFIED="1523495926302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/str" />
+    <SUITE FILE_PATH="coverage/basic$reversed.coverage" NAME="reversed Coverage Results" MODIFIED="1510755268420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/bif" />
+    <SUITE FILE_PATH="coverage/basic$propertyjob.coverage" NAME="propertyjob Coverage Results" MODIFIED="1512442026320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法/homework_Property" />
+    <SUITE FILE_PATH="coverage/basic$listcomprehenshion_3.coverage" NAME="listcomprehenshion_3 Coverage Results" MODIFIED="1514631611946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/解析器生成器" />
+    <SUITE FILE_PATH="coverage/basic$base64_1.coverage" NAME="base64编码_1 Coverage Results" MODIFIED="1510047261191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/作用域" />
+    <SUITE FILE_PATH="coverage/basic$to.coverage" NAME="字典to对象 Coverage Results" MODIFIED="1514372220546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$methodoflist.coverage" NAME="methodoflist Coverage Results" MODIFIED="1514106311869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/list" />
+    <SUITE FILE_PATH="coverage/basic$test__equals____1_.coverage" NAME="test__equals__ (1) Coverage Results" MODIFIED="1510574672250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/magicweek" />
+    <SUITE FILE_PATH="coverage/basic$map_p__1_.coverage" NAME="map_p (1) Coverage Results" MODIFIED="1510575277349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/magicweek" />
+    <SUITE FILE_PATH="coverage/basic$to_1.coverage" NAME="字典to对象_1 Coverage Results" MODIFIED="1514373015961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$sorted_1.coverage" NAME="sorted函数实现_1 Coverage Results" MODIFIED="1514632437026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/高阶函数" />
+    <SUITE FILE_PATH="coverage/basic$1_3.coverage" NAME="1-3 Coverage Results" MODIFIED="1514277495165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python源代码/chapter01" />
+    <SUITE FILE_PATH="coverage/basic$__1.coverage" NAME="堆排序_打印二叉树_1 Coverage Results" MODIFIED="1510054420316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/高阶函数" />
+    <SUITE FILE_PATH="coverage/basic$lianxi_2.coverage" NAME="lianxi_2 Coverage Results" MODIFIED="1513848338709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/dict" />
+    <SUITE FILE_PATH="coverage/basic$pathlib_Path_3.coverage" NAME="pathlib.Path_3 Coverage Results" MODIFIED="1509016411783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$bossandworker.coverage" NAME="bossandworker Coverage Results" MODIFIED="1513423410604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$jishi_3_1.coverage" NAME="jishi_3_1 Coverage Results" MODIFIED="1511672253075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法" />
+    <SUITE FILE_PATH="coverage/basic$sushu.coverage" NAME="sushu Coverage Results" MODIFIED="1510752927414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语法" />
+    <SUITE FILE_PATH="coverage/basic$cpu.coverage" NAME="cpu密集型 Coverage Results" MODIFIED="1514799811308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多进程" />
+    <SUITE FILE_PATH="coverage/basic$zip.coverage" NAME="zip Coverage Results" MODIFIED="1514635743536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/bif" />
+    <SUITE FILE_PATH="coverage/basic$dict_OrderedDict.coverage" NAME="dict_OrderedDict Coverage Results" MODIFIED="1514026656628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/dict" />
+    <SUITE FILE_PATH="coverage/basic$webob_wsgi.coverage" NAME="webob_wsgi Coverage Results" MODIFIED="1514193018095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$myfirstserver.coverage" NAME="myfirstserver Coverage Results" MODIFIED="1514538685945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$descript_test.coverage" NAME="descript_test Coverage Results" MODIFIED="1510902451634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/类装饰器" />
+    <SUITE FILE_PATH="coverage/basic$os_path_1.coverage" NAME="os.path_1 Coverage Results" MODIFIED="1509247575785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$lianxi.coverage" NAME="lianxi Coverage Results" MODIFIED="1513849939428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/dict" />
+    <SUITE FILE_PATH="coverage/basic$dict_defaultdict.coverage" NAME="dict_defaultdict Coverage Results" MODIFIED="1514025694421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/dict" />
+    <SUITE FILE_PATH="coverage/basic$test__call__.coverage" NAME="test__call__ Coverage Results" MODIFIED="1511520029191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法" />
+    <SUITE FILE_PATH="coverage/basic$test_setattr.coverage" NAME="test_setattr Coverage Results" MODIFIED="1511678134333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法/反射" />
+    <SUITE FILE_PATH="coverage/basic$webob____.coverage" NAME="webob_路由_字典存放路由表_动态_封装为类 Coverage Results" MODIFIED="1514343543046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$yanghuisanjiao_teacher_1.coverage" NAME="yanghuisanjiao_teacher_1 Coverage Results" MODIFIED="1514106737934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/list" />
+    <SUITE FILE_PATH="coverage/basic$logging_module_logger_Handler.coverage" NAME="logging_module_logger_Handler Coverage Results" MODIFIED="1513325546280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$firstFileopration_1.coverage" NAME="firstFileopration_1 Coverage Results" MODIFIED="1508893833272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$doublelklst_.coverage" NAME="doublelklst_容器 Coverage Results" MODIFIED="1512437904380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/homework_lklst" />
+    <SUITE FILE_PATH="coverage/basic$ormtest_session.coverage" NAME="ormtest_session Coverage Results" MODIFIED="1515220491071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaprogrammer" />
+    <SUITE FILE_PATH="coverage/basic$socket_server_Thread_3_client.coverage" NAME="socket_server_Thread_3_client Coverage Results" MODIFIED="1513739799779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tcp编程" />
+    <SUITE FILE_PATH="coverage/basic$initialize.coverage" NAME="initialize Coverage Results" MODIFIED="1514120832786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/str" />
+    <SUITE FILE_PATH="coverage/basic$bytes_.coverage" NAME="bytes_操作 Coverage Results" MODIFIED="1514280449318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/bytes" />
+    <SUITE FILE_PATH="coverage/basic$accessstring.coverage" NAME="accessstring Coverage Results" MODIFIED="1514259927480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/str" />
+    <SUITE FILE_PATH="coverage/basic$api_pop.coverage" NAME="集合常用api_pop Coverage Results" MODIFIED="1513839570438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/set" />
+    <SUITE FILE_PATH="coverage/basic$open.coverage" NAME="open Coverage Results" MODIFIED="1523496592011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$impl_ls.coverage" NAME="impl_ls Coverage Results" MODIFIED="1509278713460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$testjointhread_1.coverage" NAME="testjointhread_1 Coverage Results" MODIFIED="1513165676177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$buysomething.coverage" NAME="buysomething Coverage Results" MODIFIED="1510716825222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/test" />
+    <SUITE FILE_PATH="coverage/basic$test__3.coverage" NAME="test_数据描述器_3 Coverage Results" MODIFIED="1511782510130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法/描述器" />
+    <SUITE FILE_PATH="coverage/basic$_5.coverage" NAME="装饰器_5 Coverage Results" MODIFIED="1510733920981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/高阶函数" />
+    <SUITE FILE_PATH="coverage/basic$__import____.coverage" NAME="内建函数__import__() Coverage Results" MODIFIED="1512994339263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/插件化开发" />
+    <SUITE FILE_PATH="coverage/basic$shutil_3_copy2.coverage" NAME="shutil_3_copy2 Coverage Results" MODIFIED="1509109667983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作/os模块" />
+    <SUITE FILE_PATH="coverage/basic$objectcollection.coverage" NAME="objectcollection Coverage Results" MODIFIED="1509951848268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop" />
+    <SUITE FILE_PATH="coverage/basic$jishi.coverage" NAME="jishi Coverage Results" MODIFIED="1511669326015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法" />
+    <SUITE FILE_PATH="coverage/basic$fib.coverage" NAME="fib Coverage Results" MODIFIED="1510745641846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法" />
+    <SUITE FILE_PATH="coverage/basic$copy_hextend_2.coverage" NAME="copy_hextend_2 Coverage Results" MODIFIED="1514449809919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/list" />
+    <SUITE FILE_PATH="coverage/basic$.coverage" NAME="冒泡排序 Coverage Results" MODIFIED="1520410145325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lookbackworkd/排序算法" />
+    <SUITE FILE_PATH="coverage/basic$pp.coverage" NAME="pp Coverage Results" MODIFIED="1509777801267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re" />
+    <SUITE FILE_PATH="coverage/basic$a9_9.coverage" NAME="a9_9 Coverage Results" MODIFIED="1520173179209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语法" />
+    <SUITE FILE_PATH="coverage/basic$fangzheng.coverage" NAME="fangzheng Coverage Results" MODIFIED="1514287831051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/bytes" />
+    <SUITE FILE_PATH="coverage/basic$pathlib_Path_2.coverage" NAME="pathlib.Path_2 Coverage Results" MODIFIED="1509250395956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$test__special.coverage" NAME="test_非描述器普通的类_special Coverage Results" MODIFIED="1511782943050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法/描述器" />
+    <SUITE FILE_PATH="coverage/basic$test__equals__.coverage" NAME="test__equals__ Coverage Results" MODIFIED="1510574359504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/magic" />
+    <SUITE FILE_PATH="coverage/basic$test.coverage" NAME="test Coverage Results" MODIFIED="1513858065388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/dict" />
+    <SUITE FILE_PATH="coverage/basic$area.coverage" NAME="area Coverage Results" MODIFIED="1510577617040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/homework" />
+    <SUITE FILE_PATH="coverage/basic$webob_______.coverage" NAME="webob_路由_字典存放路由表_动态_封装为类_装饰器_封装为类_修改注册函数 Coverage Results" MODIFIED="1514358375086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$_suffix.coverage" NAME="提取字符串_suffix Coverage Results" MODIFIED="1514207490171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re" />
+    <SUITE FILE_PATH="coverage/basic$fzhong.coverage" NAME="fzhong Coverage Results" MODIFIED="1515328934549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/test" />
+    <SUITE FILE_PATH="coverage/basic$api_union_update.coverage" NAME="集合常用api_union_update Coverage Results" MODIFIED="1513843957875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/set" />
+    <SUITE FILE_PATH="coverage/basic$webob_____.coverage" NAME="webob_路由_字典存放路由表_动态_封装为类_装饰器 Coverage Results" MODIFIED="1514344296860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$implementTimer_1.coverage" NAME="implementTimer_1 Coverage Results" MODIFIED="1513245940939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$waitingforsunthreading.coverage" NAME="waitingforsunthreading Coverage Results" MODIFIED="1523268131203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demoforsuning" />
+    <SUITE FILE_PATH="coverage/basic$_wrong.coverage" NAME="随机整数生成类_wrong Coverage Results" MODIFIED="1510135479277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/test" />
+    <SUITE FILE_PATH="coverage/basic$zl_crazzzy_ls_1.coverage" NAME="zl_crazzzy_ls_1 Coverage Results" MODIFIED="1512987315339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$second.coverage" NAME="second Coverage Results" MODIFIED="1515218756184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaprogrammer" />
+    <SUITE FILE_PATH="coverage/basic$practice_2.coverage" NAME="practice_2 Coverage Results" MODIFIED="1513822440572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/package封装和解构" />
+    <SUITE FILE_PATH="coverage/basic$creater.coverage" NAME="creater Coverage Results" MODIFIED="1514120641991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/str" />
+    <SUITE FILE_PATH="coverage/basic$1_4.coverage" NAME="1-4 Coverage Results" MODIFIED="1514277550272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python源代码/chapter01" />
+    <SUITE FILE_PATH="coverage/basic$chongfu.coverage" NAME="chongfu Coverage Results" MODIFIED="1513827193827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/set" />
+    <SUITE FILE_PATH="coverage/basic$yanghuisanjao_1.coverage" NAME="yanghuisanjao_1 Coverage Results" MODIFIED="1514114382047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/list" />
+    <SUITE FILE_PATH="coverage/basic$ormtest.coverage" NAME="ormtest Coverage Results" MODIFIED="1515210115201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/metaprogrammer" />
+    <SUITE FILE_PATH="coverage/basic$test__name__.coverage" NAME="test__name__ Coverage Results" MODIFIED="1511428487815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法/魔术方法_普通方法" />
+    <SUITE FILE_PATH="coverage/basic$chatserver.coverage" NAME="chatserver Coverage Results" MODIFIED="1513741196922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/udp编程" />
+    <SUITE FILE_PATH="coverage/basic$pre_re_defaultdict.coverage" NAME="pre_re_defaultdict Coverage Results" MODIFIED="1514207251378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re" />
+    <SUITE FILE_PATH="coverage/basic$test_setattr_.coverage" NAME="test_setattr_调用方法 Coverage Results" MODIFIED="1517472225528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法/反射" />
+    <SUITE FILE_PATH="coverage/basic$logging_module_logger.coverage" NAME="logging_module_logger Coverage Results" MODIFIED="1513304137942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$shutil_4_copytee.coverage" NAME="shutil_4_copytee Coverage Results" MODIFIED="1509113657918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作/os模块" />
+    <SUITE FILE_PATH="coverage/basic$test_property1.coverage" NAME="test_property1 Coverage Results" MODIFIED="1510306631467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/继承" />
+    <SUITE FILE_PATH="coverage/basic$firsttest.coverage" NAME="firsttest Coverage Results" MODIFIED="1515049359097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据库连接" />
+    <SUITE FILE_PATH="coverage/basic$list_api.coverage" NAME="list_常用api Coverage Results" MODIFIED="1514100915976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/list" />
+    <SUITE FILE_PATH="coverage/basic$api_intersection_update.coverage" NAME="集合常用api_intersection&amp;update Coverage Results" MODIFIED="1513843148542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/set" />
+    <SUITE FILE_PATH="coverage/basic$api_clear.coverage" NAME="集合常用api_clear Coverage Results" MODIFIED="1513839499732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/set" />
+    <SUITE FILE_PATH="coverage/basic$yanghuisanjaosecond.coverage" NAME="yanghuisanjaosecond Coverage Results" MODIFIED="1514106667364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/list" />
+    <SUITE FILE_PATH="coverage/basic$test__get_____2.coverage" NAME="test__get__()_2 Coverage Results" MODIFIED="1511774161947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法/描述器" />
+    <SUITE FILE_PATH="coverage/basic$chongfushuzi.coverage" NAME="chongfushuzi Coverage Results" MODIFIED="1513848186005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/dict" />
+    <SUITE FILE_PATH="coverage/basic$base64_pre.coverage" NAME="base64编码_pre Coverage Results" MODIFIED="1508859721375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/作用域" />
+    <SUITE FILE_PATH="coverage/basic$strip.coverage" NAME="strip Coverage Results" MODIFIED="1509523910532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/str" />
+    <SUITE FILE_PATH="coverage/basic$testargsforthreading.coverage" NAME="testargsforthreading Coverage Results" MODIFIED="1513164672383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$app_demo.coverage" NAME="app_demo Coverage Results" MODIFIED="1516693883969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/luckynginx" />
+    <SUITE FILE_PATH="coverage/basic$_1.coverage" NAME="解构_1 Coverage Results" MODIFIED="1513825427306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/package封装和解构" />
+    <SUITE FILE_PATH="coverage/basic$average.coverage" NAME="average Coverage Results" MODIFIED="1513821757691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语法" />
+    <SUITE FILE_PATH="coverage/basic$configparser_1.coverage" NAME="configparser_1 Coverage Results" MODIFIED="1522812358097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作/ini_configerationFile" />
+    <SUITE FILE_PATH="coverage/basic$test__4.coverage" NAME="test_数据描述器_4 Coverage Results" MODIFIED="1511789700885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法/描述器" />
+    <SUITE FILE_PATH="coverage/basic$pathlib_Path_4.coverage" NAME="pathlib.Path_4 Coverage Results" MODIFIED="1509250488907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$webob______.coverage" NAME="webob_路由_字典存放路由表_动态_封装为类_装饰器_封装为类 Coverage Results" MODIFIED="1514354686223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$___getattr____.coverage" NAME="反射_魔术方法__getattr__() Coverage Results" MODIFIED="1517472281089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法/反射" />
+    <SUITE FILE_PATH="coverage/basic$os_path_2.coverage" NAME="os.path_2 Coverage Results" MODIFIED="1517140504034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$to_.coverage" NAME="字典to对象_递归 Coverage Results" MODIFIED="1514511450226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$chatserver_multify_client.coverage" NAME="chatserver_multify_client Coverage Results" MODIFIED="1513760324242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/udp编程" />
+    <SUITE FILE_PATH="coverage/basic$chitao.coverage" NAME="chitao Coverage Results" MODIFIED="1513821352921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语法" />
+    <SUITE FILE_PATH="coverage/basic$test_staticmethod.coverage" NAME="test_staticmethod Coverage Results" MODIFIED="1511789573518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法/描述器应用" />
+    <SUITE FILE_PATH="coverage/basic$functools_lru.coverage" NAME="functools_lru Coverage Results" MODIFIED="1515838239629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/高阶函数" />
+    <SUITE FILE_PATH="coverage/basic$dispatcher_test_1.coverage" NAME="dispatcher_test-1 Coverage Results" MODIFIED="1510927797726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/类装饰器" />
+    <SUITE FILE_PATH="coverage/basic$test_1.coverage" NAME="test_1 Coverage Results" MODIFIED="1510577702998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/magicweek" />
+    <SUITE FILE_PATH="coverage/basic$fangzheng_2.coverage" NAME="fangzheng_2 Coverage Results" MODIFIED="1514287709021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/bytes" />
+    <SUITE FILE_PATH="coverage/basic$a9_9_3.coverage" NAME="a9_9-3 Coverage Results" MODIFIED="1520173369923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语法" />
+    <SUITE FILE_PATH="coverage/basic$logging_module_logger_Handler_1.coverage" NAME="logging_module_logger_Handler_1 Coverage Results" MODIFIED="1513328155953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$animal.coverage" NAME="animal Coverage Results" MODIFIED="1511501725201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法/名词空间内的属性" />
+    <SUITE FILE_PATH="coverage/basic$listenandsee.coverage" NAME="listenandsee Coverage Results" MODIFIED="1523244554035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$_glob.coverage" NAME="日志处理_glob Coverage Results" MODIFIED="1509880864169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re" />
+    <SUITE FILE_PATH="coverage/basic$cashe.coverage" NAME="cashe Coverage Results" MODIFIED="1514632494184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/高阶函数" />
+    <SUITE FILE_PATH="coverage/basic$logging_module.coverage" NAME="logging_module Coverage Results" MODIFIED="1517905308707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$demoforlogger.coverage" NAME="demoforlogger Coverage Results" MODIFIED="1523450404750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demoforsuning" />
+    <SUITE FILE_PATH="coverage/basic$setup.coverage" NAME="setup Coverage Results" MODIFIED="1514616528547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/basic$cashe__4.coverage" NAME="cashe_注解_4 Coverage Results" MODIFIED="1515838521095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/高阶函数" />
+    <SUITE FILE_PATH="coverage/basic$pre_re_dict.coverage" NAME="pre_re_dict Coverage Results" MODIFIED="1514207328678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re" />
+    <SUITE FILE_PATH="coverage/basic$testjointhread.coverage" NAME="testjointhread Coverage Results" MODIFIED="1513166125546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$os_1.coverage" NAME="os_1 Coverage Results" MODIFIED="1517140460193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作/os模块" />
+    <SUITE FILE_PATH="coverage/basic$api.coverage" NAME="集合常用api Coverage Results" MODIFIED="1513829022896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/set" />
+    <SUITE FILE_PATH="coverage/basic$test__2.coverage" NAME="test_数据描述器_2 Coverage Results" MODIFIED="1511782241582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法/描述器" />
+    <SUITE FILE_PATH="coverage/basic$os_Path_1.coverage" NAME="os.Path_1 Coverage Results" MODIFIED="1509000392132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$listcomprehenshion.coverage" NAME="listcomprehenshion Coverage Results" MODIFIED="1514631585017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/解析器生成器" />
+    <SUITE FILE_PATH="coverage/basic$api_discard_remove.coverage" NAME="集合常用api_discard&amp;remove Coverage Results" MODIFIED="1513838865439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/set" />
+    <SUITE FILE_PATH="coverage/basic$_5_1.coverage" NAME="装饰器_5_1 Coverage Results" MODIFIED="1510037839531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/高阶函数" />
+    <SUITE FILE_PATH="coverage/basic$testcounter.coverage" NAME="testcounter Coverage Results" MODIFIED="1520338812748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$test_hex.coverage" NAME="test_hex Coverage Results" MODIFIED="1514295342452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/bif" />
+    <SUITE FILE_PATH="coverage/basic$dict_.coverage" NAME="dict_构造 Coverage Results" MODIFIED="1514029383154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/dict" />
+    <SUITE FILE_PATH="coverage/basic$pathlib_Path_5.coverage" NAME="pathlib.Path_5 Coverage Results" MODIFIED="1509276642784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$test__1.coverage" NAME="test_装饰器_1 Coverage Results" MODIFIED="1514463478074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$lklst.coverage" NAME="lklst Coverage Results" MODIFIED="1511698248371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/homework_lklst" />
+    <SUITE FILE_PATH="coverage/basic$orm2.coverage" NAME="orm2 Coverage Results" MODIFIED="1515302987393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python源代码/chapter08" />
+    <SUITE FILE_PATH="coverage/basic$firstFileopration_1_r_.coverage" NAME="firstFileopration_1_r+ Coverage Results" MODIFIED="1508983383138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$__2.coverage" NAME="堆排序_打印二叉树_2 Coverage Results" MODIFIED="1510055017470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/高阶函数" />
+    <SUITE FILE_PATH="coverage/basic$dispatcher_test.coverage" NAME="dispatcher_test Coverage Results" MODIFIED="1510927818009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/类装饰器" />
+    <SUITE FILE_PATH="coverage/basic$_split.coverage" NAME="提取字符串_split Coverage Results" MODIFIED="1509713502546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re" />
+    <SUITE FILE_PATH="coverage/basic$lingxing_spider.coverage" NAME="lingxing_spider Coverage Results" MODIFIED="1513822183090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语法" />
+    <SUITE FILE_PATH="coverage/basic$conpool.coverage" NAME="conpool Coverage Results" MODIFIED="1515373774803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据库连接" />
+    <SUITE FILE_PATH="coverage/basic$asdg__init__.coverage" NAME="asdg__init__ Coverage Results" MODIFIED="1513821156161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语法" />
+    <SUITE FILE_PATH="coverage/basic$test_property.coverage" NAME="test_property Coverage Results" MODIFIED="1510298122722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/继承" />
+    <SUITE FILE_PATH="coverage/basic$carmanager.coverage" NAME="carmanager Coverage Results" MODIFIED="1510715586825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/test" />
+    <SUITE FILE_PATH="coverage/basic$api__update.coverage" NAME="集合常用api_构造&amp;update Coverage Results" MODIFIED="1513833973107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/set" />
+    <SUITE FILE_PATH="coverage/basic$a9_9_1.coverage" NAME="a9_9-1 Coverage Results" MODIFIED="1520173334303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语法" />
+    <SUITE FILE_PATH="coverage/basic$api_.coverage" NAME="集合常用api_构造 Coverage Results" MODIFIED="1513833981422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/set" />
+    <SUITE FILE_PATH="coverage/basic$lianxi_1.coverage" NAME="lianxi_1 Coverage Results" MODIFIED="1514023814274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/dict" />
+    <SUITE FILE_PATH="coverage/basic$_test.coverage" NAME="日志处理_test Coverage Results" MODIFIED="1509930528773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re" />
+    <SUITE FILE_PATH="coverage/basic$simpleecho.coverage" NAME="simpleecho Coverage Results" MODIFIED="1513932712438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多路复用" />
+    <SUITE FILE_PATH="coverage/basic$testrandom.coverage" NAME="testrandom Coverage Results" MODIFIED="1514635191352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lookbackworkd/常用工具类" />
+    <SUITE FILE_PATH="coverage/basic$firstFileopration_1_w_.coverage" NAME="firstFileopration_1_w+ Coverage Results" MODIFIED="1508985566901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$firstFileopration_1_a_.coverage" NAME="firstFileopration_1_a+ Coverage Results" MODIFIED="1508983502375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$test_connect.coverage" NAME="test_connect Coverage Results" MODIFIED="1517367936451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据库连接/sqlalchemy_prac" />
+    <SUITE FILE_PATH="coverage/basic$map_1.coverage" NAME="map_1 Coverage Results" MODIFIED="1508932325855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$ll.coverage" NAME="ll Coverage Results" MODIFIED="1510577777586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/homework" />
+    <SUITE FILE_PATH="coverage/basic$testint.coverage" NAME="testint Coverage Results" MODIFIED="1510798854291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/bif" />
+    <SUITE FILE_PATH="coverage/basic$fbnqsl.coverage" NAME="fbnqsl Coverage Results" MODIFIED="1513821961438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语法" />
+    <SUITE FILE_PATH="coverage/basic$implementTimer.coverage" NAME="implementTimer Coverage Results" MODIFIED="1523244290142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$copy_deep.coverage" NAME="copy_deep Coverage Results" MODIFIED="1513826916273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/list" />
+    <SUITE FILE_PATH="coverage/basic$testjointhread_1join.coverage" NAME="testjointhread_1强制join调用 Coverage Results" MODIFIED="1520335695304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多线程" />
+    <SUITE FILE_PATH="coverage/basic$yanghuisanjiao_teacher.coverage" NAME="yanghuisanjiao_teacher Coverage Results" MODIFIED="1514108913673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/list" />
+    <SUITE FILE_PATH="coverage/basic$_init.coverage" NAME="随机整数生成类_init Coverage Results" MODIFIED="1510142867901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/test" />
+    <SUITE FILE_PATH="coverage/basic$datatimepractice.coverage" NAME="datatimepractice Coverage Results" MODIFIED="1514207064581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/re" />
+    <SUITE FILE_PATH="coverage/basic$webob__.coverage" NAME="webob_路由_字典存放路由表 Coverage Results" MODIFIED="1514206286711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wsgi_server" />
+    <SUITE FILE_PATH="coverage/basic$module_def.coverage" NAME="module_def Coverage Results" MODIFIED="1513342293326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lookbackworkd" />
+    <SUITE FILE_PATH="coverage/basic$stringIo_1.coverage" NAME="stringIo_1 Coverage Results" MODIFIED="1508989242688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$shutil_1.coverage" NAME="shutil_1 Coverage Results" MODIFIED="1509257469625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作/os模块" />
+    <SUITE FILE_PATH="coverage/basic$jishi_2.coverage" NAME="jishi_2 Coverage Results" MODIFIED="1510735949832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/魔术方法" />
+    <SUITE FILE_PATH="coverage/basic$teacher_linklist.coverage" NAME="teacher_linklist Coverage Results" MODIFIED="1511698004257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/homework_lklst" />
+    <SUITE FILE_PATH="coverage/basic$doublelklst.coverage" NAME="doublelklst Coverage Results" MODIFIED="1510651975571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oop/homework" />
+    <SUITE FILE_PATH="coverage/basic$socket_server_Thread_2.coverage" NAME="socket_server_Thread_2 Coverage Results" MODIFIED="1513673893958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tcp编程" />
+    <SUITE FILE_PATH="coverage/basic$module_def_param.coverage" NAME="module_def_param Coverage Results" MODIFIED="1514634526444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lookbackworkd/模块导入" />
+    <SUITE FILE_PATH="coverage/basic$file_like_1.coverage" NAME="file_like_1 Coverage Results" MODIFIED="1508991747374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/basic$1_1.coverage" NAME="1-1 Coverage Results" MODIFIED="1514336341599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python源代码/chapter01" />
+    <SUITE FILE_PATH="coverage/basic$chatserver_multify.coverage" NAME="chatserver_multify Coverage Results" MODIFIED="1513754267123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/udp编程" />
+    <SUITE FILE_PATH="coverage/basic$1.coverage" NAME="1 Coverage Results" MODIFIED="1512986828052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作/csv模块" />
+    <SUITE FILE_PATH="coverage/basic$panduan_yigeshu_shi_jiweishu_2.coverage" NAME="panduan yigeshu shi jiweishu_2 Coverage Results" MODIFIED="1514121073532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/str" />
+    <SUITE FILE_PATH="coverage/basic$api_difference_update.coverage" NAME="集合常用api_difference_update Coverage Results" MODIFIED="1513844210837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/set" />
+    <SUITE FILE_PATH="coverage/basic$test_1__1_.coverage" NAME="test_1 (1) Coverage Results" MODIFIED="1513848572578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/dict" />
+    <SUITE FILE_PATH="coverage/basic$circle.coverage" NAME="circle Coverage Results" MODIFIED="1510753168838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/语法" />
+    <SUITE FILE_PATH="coverage/basic$api_add.coverage" NAME="集合常用api_add Coverage Results" MODIFIED="1513838141800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/set" />
+    <SUITE FILE_PATH="coverage/basic$base64__3.coverage" NAME="base64编码_解码_3 Coverage Results" MODIFIED="1508840083366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/数据结构/作用域" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="open.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/文件操作/open.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listenandsee.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/多线程/listenandsee.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#138#154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logging_module.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/多线程/logging_module.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/文件操作/test">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>encoding</find>
+      <find>nargs</find>
+      <find>ops</find>
+      <find>source</find>
+      <find>sys</find>
+      <find>load</find>
+      <find>window</find>
+      <find>status_handler</find>
+      <find>max_heap</find>
+      <find>heep_adjust</find>
+      <find>LinkedList</find>
+      <find>[]</find>
+      <find>Point</find>
+      <find>callable</find>
+      <find>_start_new_thread</find>
+      <find>_thread</find>
+      <find>cancel</find>
+      <find>basicconfig</find>
+      <find>level</find>
+      <find>kwargs</find>
+      <find>dict</find>
+      <find>__call</find>
+      <find>print (?&lt;h&gt;.+)</find>
+      <find>index</find>
+      <find>==</find>
+      <find>self</find>
+      <find>register_preintercepter</find>
+      <find>site-packages</find>
+      <find>jsonify</find>
+      <find>iam</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>None</replace>
+      <replace>Point_q</replace>
+      <replace>print(\1)</replace>
+      <replace>print(\h)</replace>
+      <replace>print(\&quot;h&quot;)</replace>
+      <replace>cls</replace>
+      <replace>Luckynginx</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wsgi_server/webob_app_router_newdict.py" />
+        <option value="$PROJECT_DIR$/wsgi_server/test_装饰器_1.py" />
+        <option value="$PROJECT_DIR$/luckynginx/app.py" />
+        <option value="$PROJECT_DIR$/luckynginx/context/__init__.py" />
+        <option value="$PROJECT_DIR$/luckynginx/dict2obj/__init__.py" />
+        <option value="$PROJECT_DIR$/luckynginx/__init__.py" />
+        <option value="$PROJECT_DIR$/luckynginx/router/__init__.py" />
+        <option value="$PROJECT_DIR$/luckynginx/app_demo.py" />
+        <option value="$PROJECT_DIR$/打包程序/setup.py" />
+        <option value="$PROJECT_DIR$/数据结构/解析器生成器/datetime4.py" />
+        <option value="$PROJECT_DIR$/MANIFEST" />
+        <option value="$PROJECT_DIR$/数据结构/高阶函数/sorted函数实现.py" />
+        <option value="$PROJECT_DIR$/数据结构/解析器生成器/定义.py" />
+        <option value="$PROJECT_DIR$/lookbackworkd/模块导入/module_def_param.py" />
+        <option value="$PROJECT_DIR$/lookbackworkd/常用工具类/testrandom.py" />
+        <option value="$PROJECT_DIR$/数据结构/解析器生成器/迭代器.py" />
+        <option value="$PROJECT_DIR$/数据结构/bif/zip.py" />
+        <option value="$PROJECT_DIR$/数据库连接/firsttest.py" />
+        <option value="$PROJECT_DIR$/数据库连接/dbconnpool.py" />
+        <option value="$PROJECT_DIR$/wsgi_server/webob_app_router_newdict_intercepter.py" />
+        <option value="$PROJECT_DIR$/metaprogrammer/firstdeml.py" />
+        <option value="$PROJECT_DIR$/metaprogrammer/second.py" />
+        <option value="$PROJECT_DIR$/metaprogrammer/ormtest.py" />
+        <option value="$PROJECT_DIR$/metaprogrammer/ormtest_save.py" />
+        <option value="$PROJECT_DIR$/metaprogrammer/ormtest_session.py" />
+        <option value="$PROJECT_DIR$/Python源代码/chapter08/orm2.py" />
+        <option value="$PROJECT_DIR$/Python源代码/chapter08/orm.py" />
+        <option value="$PROJECT_DIR$/oop/test/fzhong.py" />
+        <option value="$PROJECT_DIR$/数据库连接/conpool.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/快捷方式/快捷方式有待考证.py" />
+        <option value="$PROJECT_DIR$/快捷方式/快捷方式有待考证.md" />
+        <option value="$PROJECT_DIR$/mkdownfile/用户he用户组.md" />
+        <option value="$PROJECT_DIR$/luckynginx/web.py" />
+        <option value="$PROJECT_DIR$/re/空格逗号分隔.py" />
+        <option value="$PROJECT_DIR$/数据库连接/sqlalchemy_prac/test_connect.py" />
+        <option value="$PROJECT_DIR$/多线程/logging_module_logger_level.py" />
+        <option value="$PROJECT_DIR$/数据结构/高阶函数/functools_1.py" />
+        <option value="$PROJECT_DIR$/oop/继承/jicheng.py" />
+        <option value="$PROJECT_DIR$/语法/a9_9-1.py" />
+        <option value="$PROJECT_DIR$/多线程/testjointhread_1强制join调用.py" />
+        <option value="$PROJECT_DIR$/多线程/testcounter.py" />
+        <option value="$PROJECT_DIR$/lookbackworkd/排序算法/冒泡排序.py" />
+        <option value="$PROJECT_DIR$/数据结构/高阶函数/堆排序_打印二叉树.py" />
+        <option value="$PROJECT_DIR$/多线程/logging_module_logger.py" />
+        <option value="$PROJECT_DIR$/多线程/listenandsee.py" />
+        <option value="$PROJECT_DIR$/demoforsuning/waitingforsunthreading.py" />
+        <option value="$PROJECT_DIR$/demoforsuning/demoforlogger.py" />
+        <option value="$PROJECT_DIR$/数据结构/str/partition.py" />
+        <option value="$PROJECT_DIR$/文件操作/write.py" />
+        <option value="$PROJECT_DIR$/文件操作/open.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="316" />
+    <option name="y" value="178" />
+    <option name="width" value="1487" />
+    <option name="height" value="764" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Google App Engine (Python)</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Pyramid</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType ProjectPane="true" />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程" type="462c0819:PsiDirectoryNode" />
+              <item name="listenandsee.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="文件操作" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\py\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\py\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\py\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\py\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+              <item name="__init__.py" type="8704e2dd:PyFileNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\py\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+              <item name="__init__.py" type="8704e2dd:PyFileNode" />
+              <item name="Logger" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\py\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="logging" type="462c0819:PsiDirectoryNode" />
+              <item name="__init__.py" type="8704e2dd:PyFileNode" />
+              <item name="StreamHandler" type="dd8bbb05:PyElementNode" />
+            </path>
+            <path>
+              <item name="basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.3 (C:\Program Files (x86)\py\python.exe) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Lib" type="462c0819:PsiDirectoryNode" />
+              <item name="configparser.py" type="8704e2dd:PyFileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/re/提取字符串.py" />
+    <property name="SearchEverywhereHistoryKey" value="log&#9;null&#9;null&#10;日志&#9;null&#9;null&#10;快速排序&#9;null&#9;null&#10;偏函数&#9;null&#9;null&#10;解构&#9;null&#9;null&#10;公共&#9;null&#9;null&#10;cpu&#9;FILE&#9;file://C:/Users/zhaoyun/PycharmProjects/basic/多进程/cpu密集型.py&#10;add&#9;null&#9;null&#10;map&#9;null&#9;null&#10;.in&#9;FILE&#9;file://C:/Users/zhaoyun/PycharmProjects/basic/文件操作/mysql.ini&#10;ini&#9;null&#9;null&#10;快捷键&#9;FILE&#9;file://C:/Users/zhaoyun/PycharmProjects/basic/快捷方式/快捷键&#10;2to3&#9;null&#9;null&#10;sort&#9;FILE&#9;file://C:/Users/zhaoyun/PycharmProjects/basic/数据结构/高阶函数/sorted函数实现.py&#10;java&#9;FILE&#9;file://C:/Users/zhaoyun/PycharmProjects/basic/快捷方式/code/management-fault-parent/management-fault-business/src/main/java/nariis/mcsas/management/fault/business/BusinessFaultApp.java&#10;ls&#9;null&#9;null&#10;ll&#9;FILE&#9;file://C:/Users/zhaoyun/PycharmProjects/basic/oop/homework_lklst/ll.py&#10;templa&#9;null&#9;null&#10;par&#9;null&#9;null&#10;fei&#9;null&#9;null&#10;test_1&#9;RUN_CONFIGURATION&#9;test__equals__ (1)&#10;test_equals&#9;RUN_CONFIGURATION&#9;test__equals__ (1)&#10;柯里化&#9;null&#9;null&#10;ordered&#9;null&#9;null&#10;base&#9;null&#9;null" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="basic" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="basic" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zhaoyun\PycharmProjects\basic\数据库连接\仿orm框架" />
+      <recent name="C:\Users\zhaoyun\PycharmProjects\basic\metaprogrammer" />
+      <recent name="C:\Users\zhaoyun\PycharmProjects\basic" />
+      <recent name="C:\Users\zhaoyun\PycharmProjects\basic\Python源代码" />
+      <recent name="C:\Users\zhaoyun\PycharmProjects\basic\Python源代码\源代码\chapter01" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhaoyun\PycharmProjects\basic\re" />
+      <recent name="C:\Users\zhaoyun\PycharmProjects\basic\metaprogrammer" />
+      <recent name="C:\Users\zhaoyun\PycharmProjects\basic\wsgi_server" />
+      <recent name="C:\Users\zhaoyun\PycharmProjects\basic\数据结构\list" />
+      <recent name="C:\Users\zhaoyun\PycharmProjects\basic\数据结构\package封装和解构" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.open">
+    <configuration name="change" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构/str" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basic" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/str/change.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="demoforlogger" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demoforsuning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basic" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoforsuning/demoforlogger.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="open" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/文件操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basic" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/文件操作/open.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="partition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构/str" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basic" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/str/partition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="split" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数据结构/str" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basic" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数据结构/str/split.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test_1" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files (x86)\py\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop/magicweek" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basic" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/magicweek/test_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test__equals__ (1)" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop/magicweek" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basic" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/magicweek/test__equals__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="testcounter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/多线程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basic" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程/testcounter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="write" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/文件操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="basic" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/文件操作/write.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.test__equals__ (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test_1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.demoforlogger" />
+      <item index="3" class="java.lang.String" itemvalue="Python.split" />
+      <item index="4" class="java.lang.String" itemvalue="Python.partition" />
+      <item index="5" class="java.lang.String" itemvalue="Python.write" />
+      <item index="6" class="java.lang.String" itemvalue="Python.open" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.open" />
+        <item index="1" class="java.lang.String" itemvalue="Python.write" />
+        <item index="2" class="java.lang.String" itemvalue="Python.partition" />
+        <item index="3" class="java.lang.String" itemvalue="Python.split" />
+        <item index="4" class="java.lang.String" itemvalue="Python.demoforlogger" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2899f48-2997-45f5-9230-86b00ae7e05c" name="Default" comment="" />
+      <created>1508821153633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508821153633</updated>
+    </task>
+    <task id="LOCAL-00001" summary="xml">
+      <created>1509541407041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1509541407041</updated>
+    </task>
+    <task id="LOCAL-00002" summary="aooo">
+      <created>1509541487423</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1509541487423</updated>
+    </task>
+    <task id="LOCAL-00003" summary="日志处理">
+      <created>1509884871829</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1509884871830</updated>
+    </task>
+    <task id="LOCAL-00004" summary="对象处理">
+      <created>1510143871673</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1510143871673</updated>
+    </task>
+    <task id="LOCAL-00005" summary="对象处理9">
+      <created>1510144345557</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1510144345557</updated>
+    </task>
+    <task id="LOCAL-00006" summary="对象处理9">
+      <created>1510576227813</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1510576227813</updated>
+    </task>
+    <task id="LOCAL-00007" summary="链表">
+      <created>1510576335819</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1510576335819</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Sss">
+      <created>1511669683387</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1511669683387</updated>
+    </task>
+    <task id="LOCAL-00009" summary="魔术方法">
+      <created>1511669814882</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1511669814882</updated>
+    </task>
+    <task id="LOCAL-00010" summary="双向列表作业,练习魔术方法">
+      <created>1512465003784</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1512465003784</updated>
+    </task>
+    <task id="LOCAL-00011" summary="多线程">
+      <created>1513084828569</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1513084828569</updated>
+    </task>
+    <task id="LOCAL-00012" summary="多线程1">
+      <created>1513231176119</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1513231176119</updated>
+    </task>
+    <task id="LOCAL-00013" summary="多线程2">
+      <created>1513231191629</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1513231191629</updated>
+    </task>
+    <task id="LOCAL-00014" summary="多线程3">
+      <created>1513231210278</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1513231210278</updated>
+    </task>
+    <task id="LOCAL-00015" summary="多进程">
+      <created>1513569054583</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1513569054583</updated>
+    </task>
+    <task id="LOCAL-00016" summary="多进程结束">
+      <created>1513576968413</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1513576968413</updated>
+    </task>
+    <task id="LOCAL-00017" summary="复习">
+      <created>1513848757469</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1513848757469</updated>
+    </task>
+    <task id="LOCAL-00018" summary="router">
+      <created>1514282724987</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1514282724987</updated>
+    </task>
+    <task id="LOCAL-00019" summary="12.26">
+      <created>1514294655216</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1514294655216</updated>
+    </task>
+    <task id="LOCAL-00020" summary="第一个自己制作的web框架">
+      <created>1514464038987</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1514464038987</updated>
+    </task>
+    <task id="LOCAL-00021" summary="web框架整合数据库连接池">
+      <created>1515069830403</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1515069830408</updated>
+    </task>
+    <task id="LOCAL-00022" summary="markdown文件更新">
+      <created>1515838794051</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1515838794051</updated>
+    </task>
+    <task id="LOCAL-00023" summary="update some note">
+      <created>1519971797294</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1519971797294</updated>
+    </task>
+    <task id="LOCAL-00024" summary="update some note">
+      <created>1520230602730</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1520230602730</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-12" y="-12" width="2584" height="1572" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32659176" sideWeight="0.49573562" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32540292" sideWeight="0.5052546" order="11" side_tool="true" content_ui="tabs" x="514" y="358" width="968" height="261" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23071161" sideWeight="0.4792111" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29363295" sideWeight="0.49636218" order="12" side_tool="false" content_ui="tabs" x="1920" y="-194" width="1291" height="779" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42621723" sideWeight="0.43393713" order="2" side_tool="false" content_ui="tabs" x="1920" y="-219" width="1280" height="740" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22066738" sideWeight="0.49474534" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.124798715" sideWeight="0.49140048" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295152" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978156" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25828618" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19725141" sideWeight="0.5085995" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26587728" sideWeight="0.48027718" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="SFDX" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32823592" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292402" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955465" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32832617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Log Manager" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="SFDX" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29621738" sideWeight="0.56523436" order="11" side_tool="true" content_ui="tabs" x="514" y="358" width="968" height="261" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295152" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2582996" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26680672" sideWeight="0.48027718" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955465" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32725322" sideWeight="0.49573562" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2310213" sideWeight="0.4792111" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29437464" sideWeight="0.4978678" order="12" side_tool="false" content_ui="tabs" x="1920" y="-194" width="1291" height="779" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6132003" sideWeight="0.43476564" order="2" side_tool="false" content_ui="tabs" x="1920" y="-219" width="1280" height="740" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32605132" sideWeight="0.4978678" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42643493" sideWeight="0.49140048" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32832617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978156" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Log Manager" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19757085" sideWeight="0.5085995" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="xml" />
+    <MESSAGE value="aooo" />
+    <MESSAGE value="日志处理" />
+    <MESSAGE value="对象处理" />
+    <MESSAGE value="对象处理9" />
+    <MESSAGE value="链表" />
+    <MESSAGE value="Sss" />
+    <MESSAGE value="魔术方法" />
+    <MESSAGE value="双向列表作业,练习魔术方法" />
+    <MESSAGE value="多线程" />
+    <MESSAGE value="多线程1" />
+    <MESSAGE value="多线程2" />
+    <MESSAGE value="多线程3" />
+    <MESSAGE value="多进程" />
+    <MESSAGE value="多进程结束" />
+    <MESSAGE value="复习" />
+    <MESSAGE value="router" />
+    <MESSAGE value="12.26" />
+    <MESSAGE value="第一个自己制作的web框架" />
+    <MESSAGE value="web框架整合数据库连接池" />
+    <MESSAGE value="markdown文件更新" />
+    <MESSAGE value="update some note" />
+    <option name="LAST_COMMIT_MESSAGE" value="update some note" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lookbackworkd/排序算法/冒泡排序.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="55" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self" />
+        <watch expression="matcher.groupdict().items().key" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>matcher.groupdict().items().key</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matcher.groupdict().items().k</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/Program Files (x86)/py/Lib/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/re/日志处理_test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/logging_module_logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="17" column="64" lean-forward="false" selection-start-line="17" selection-start-column="64" selection-end-line="17" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/ini_configerationFile/configparser_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/ini_configerationFile/mysql.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/implementTimer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/implementTimer_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/testargsforthreading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="33" column="15" lean-forward="true" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/testcounter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/testjointhread_2_主线程慢_子线程执行.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/logging_module_logger_level.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多路复用/simpleecho.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多路复用/simpleecho_chatserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/testjointhread_1_主线程快_子线程未执行.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/implementTimer_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/logging_module_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/logging_module_logger_Handler_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-667">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/logging_module_logger_Handler_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="20" column="43" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/logging_module_logger_Handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/py/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="1504" column="51" lean-forward="true" selection-start-line="1504" selection-start-column="51" selection-end-line="1504" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/logging_module_logger_Handler_FileHandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoforsuning/waitingforsunthreading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoforsuning/log.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoforsuning/demoforlogger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构/str/accessstring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构/str/split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构/str/partition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/os模块/shutil_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/笔记.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/test_1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/笔记copy3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/sample.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/b.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/os模块/shutil_4_copytee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/os模块/shutil_3_copy2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/os模块/shutil_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/os模块/os_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/pathlib.Path_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/pathlib.Path_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/pathlib.Path_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/pathlib.Path_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/a.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/stringIo_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/pathlib.Path_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/os.path_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/os.path_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/logging_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="16" column="25" lean-forward="false" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程/listenandsee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#138#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/open.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

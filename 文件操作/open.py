@@ -1,5 +1,5 @@
 
-with open('test',encoding="utf-8",mode='w+') as f :
+with open('test',encoding="utf-8",mode='r+') as f :
 
     f.write("啊111")
     f.seek(0)

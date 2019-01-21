@@ -17,4 +17,6 @@ class Counter:
 
 
 if __name__=="__main__":
-    Counter().add()
+    c = Counter()
+    c.add()
+    print(c.num)

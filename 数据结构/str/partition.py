@@ -4,3 +4,8 @@ print(s1.partition("super"))        # 和split  不一样,保留中间的
 print(s1.partition(" "))        # 和split  不一样,保留中间的
 
 print(s1.split("super"))             # 返回的是一个  list列表
+
+
+
+s2="c:\download\发票.xls"
+print(s2.split("\\")[-1].split(".")[0])

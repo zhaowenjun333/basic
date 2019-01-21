@@ -22,7 +22,7 @@ def music(func):
 def move(func):
     for i in range(2):
         print("I was at the %s! %s" %(func,ctime()))
-        sleep(5)
+        sleep(15)
 
 threads = []
 t1 = threading.Thread(target=music,args=(u'爱情买卖',))
